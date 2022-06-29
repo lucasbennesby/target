@@ -15,3 +15,4 @@ faturaPorEstado[1].forEach((fatura, i) => {
     } é ${porcentagem.toFixed(2)}%`
   );
 });
+fff;
